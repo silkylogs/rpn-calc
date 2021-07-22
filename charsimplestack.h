@@ -6,7 +6,7 @@
 #ifndef SIMPLESTACK_H
 #define SIMPLESTACK_H
 
-#define MAXDIGITS 20
+#define MAXDIGITS 100
 
 typedef struct CStackNode
 {
